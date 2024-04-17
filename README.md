@@ -12,3 +12,5 @@ cd transition_augur
 python3 -m pip install jupyter-repo2docker
 repo2docker .
 ```
+
+The files in oss_data_short/ are just 1,000 randomly sampled rows from the much larger files in oss_data.zip.
