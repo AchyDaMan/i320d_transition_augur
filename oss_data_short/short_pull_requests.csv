@@ -1,5 +1,4 @@
 ,repo_id,repo_name,data_collection_date,event_type,event_datetime,contributor_name,pr_merge_status
-,repo_id,repo_name,data_collection_date,event_type,event_datetime,contributor_name,pr_merge_status
 0,25952,yt,2023-02-28 16:46:00,pull_request_created,2023-03-27 22:07:35,neutrinoceros,not merged
 1,25888,de_rle,2023-02-28 16:46:00,pull_request_created,2020-11-09 22:12:51,dgosselin-p4,merged
 2,25880,Gklee,2023-02-28 16:46:00,pull_request_created,2021-03-23 02:09:26,tanmaytirpankar,not merged
